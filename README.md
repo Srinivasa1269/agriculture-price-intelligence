@@ -64,6 +64,8 @@ streamlit run app.py
 
 Optional, for the LLM: install [Ollama](https://ollama.com) and run `ollama pull mistral`.
 
+Docker and Azure steps are in [DEPLOY.md](DEPLOY.md). The unit tests also run automatically on every push (GitHub Actions).
+
 ## Files
 
 | File | What it does |
