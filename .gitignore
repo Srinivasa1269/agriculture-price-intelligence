@@ -1,0 +1,10 @@
+# data is too big for GitHub - see README for where to get it
+data/*.csv
+*.pkl
+.venv/
+.claude/
+.vscode/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
